@@ -1,5 +1,4 @@
 # Tarea: Bucles en JavaScript
-# LOS PROGRAMADORES SE HACEN PROGRAMANDO
 
 ## 1. While, Do...While y For
 
